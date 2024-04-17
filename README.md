@@ -12,6 +12,10 @@
 
 ## Notes:
 
-:large_blue_diamond: Written with C++ with Object-Oriented, Data Structure & Sorting Algorithm Approach.
+:large_blue_diamond: Framework: LAMP Stack
 
-:large_blue_diamond: Developed with Visual Studio Code
+:large_blue_diamond: Written with PHP and JavaScript
+
+:large_blue_diamond: Database: MySQL
+
+:large_blue_diamond: Developed with Visual Studio Code, XAMPP, phpMyAdmin(MySQL)
